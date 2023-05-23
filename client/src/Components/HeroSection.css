@@ -1,0 +1,961 @@
+#heroSectionImage {
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 924px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/banner image copy.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+#logoImage {
+    top: 76px;
+    left: 141px;
+    width: 262px;
+    height: 88px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Asset 3@4x-8.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#heroSectionText {
+    top: 295px;
+    left: 141px;
+    width: 754px;
+    height: 189px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 51px/64px Aktifo A;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+#heroSectionSubText {
+    top: 532px;
+    left: 141px;
+    width: 527px;
+    height: 82px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 34px/41px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#image1 {
+    top: 677px;
+    left: 172px;
+    width: 80px;
+    height: 80px;
+    /* UI Properties */
+    background: #292929 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#image1Text {
+    top: 768px;
+    left: 163px;
+    width: 98px;
+    height: 48px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #5D5D5D;
+    opacity: 1;
+}
+
+#image2 {
+    top: 677px;
+    left: 397px;
+    width: 80px;
+    height: 80px;
+    /* UI Properties */
+    background: #292929 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#image2Text {
+    top: 768px;
+    left: 376px;
+    width: 122px;
+    height: 48px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #5D5D5D;
+    opacity: 1;
+}
+
+#image3 {
+    top: 677px;
+    left: 622px;
+    width: 80px;
+    height: 80px;
+    /* UI Properties */
+    background: #292929 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#image3Text {
+    top: 768px;
+    left: 610px;
+    width: 104px;
+    height: 48px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #5D5D5D;
+    opacity: 1;
+}
+
+#formSection {
+    top: 102px;
+    left: 1048px;
+    width: 734px;
+    height: 1079px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 14px 27px #00000017;
+    border-radius: 13px;
+    opacity: 1;
+}
+
+#formHeading {
+    top: 155px;
+    left: 1107px;
+    height: 41px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 34px/41px Aktifo A;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+#formHeadingSubText {
+    top: 203px;
+    left: 1107px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#firstName {
+    top: 274px;
+    left: 1107px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#lastName {
+    top: 274px;
+    left: 1440px;
+    width: 106px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#firstNameInputBox {
+    top: 309px;
+    left: 1107px;
+    width: 283px;
+    height: 46px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+}
+
+#lastNameInputBox {
+    top: 309px;
+    left: 1440px;
+    width: 283px;
+    height: 46px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+}
+
+#email {
+    top: 377px;
+    left: 1107px;
+    width: 54px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#emailInputBox {
+    top: 412px;
+    left: 1107px;
+    width: 283px;
+    height: 46px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+}
+
+#contact {
+    top: 377px;
+    left: 1440px;
+    width: 166px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#contactInputBox {
+    top: 412px;
+    left: 1440px;
+    width: 283px;
+    height: 46px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+}
+
+#company {
+    top: 486px;
+    left: 1107px;
+    width: 98px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#companyInputBox {
+    top: 521px;
+    left: 1107px;
+    width: 283px;
+    height: 46px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+}
+
+#state {
+    top: 486px;
+    left: 1440px;
+    width: 54px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#stateInputBox {
+    top: 521px;
+    left: 1440px;
+    width: 283px;
+    height: 46px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+}
+
+#describe {
+    top: 595px;
+    left: 1107px;
+    width: 340px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#describeInputBox {
+    top: 630px;
+    left: 1107px;
+    width: 616px;
+    height: 46px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+}
+
+#distributor {
+    top: 704px;
+    left: 1107px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#distributorInputBox {
+    top: 739px;
+    left: 1107px;
+    width: 616px;
+    height: 46px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+}
+
+#additional {
+    top: 813px;
+    left: 1107px;
+    width: 224px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#additionalInputBox {
+    top: 848px;
+    left: 1107px;
+    width: 616px;
+    height: 106px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+}
+
+#checkBox {
+    top: 979px;
+    left: 1108px;
+    width: 24px;
+    height: 24px;
+    /* UI Properties */
+    border: 0.5px solid #5D5D5D;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+#checkBoxText {
+    top: 979px;
+    left: 1145px;
+    width: 527px;
+    height: 48px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+}
+
+#submitButton {
+    top: 1058px;
+    left: 1274px;
+    width: 285px;
+    height: 75px;
+    /* UI Properties */
+    background: #F26621 0% 0% no-repeat padding-box;
+    border-radius: 9px;
+    opacity: 1;
+}
+
+#buttonText {
+    top: 1080px;
+    left: 1337px;
+    width: 108px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 30px/36px Aktifo A;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+#middleSectionImage {
+    top: 924px;
+    left: 0px;
+    width: 1920px;
+    height: 789px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Group 217.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#middleSectionHeading {
+    top: 1079px;
+    left: 140px;
+    width: 731px;
+    height: 61px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 51px/63px Aktifo A;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+#maximum {
+    top: 690px;
+    left: 193px;
+    width: 38px;
+    height: 51px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Group 194.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#middleSectionSubHeading {
+    top: 1147px;
+    left: 140px;
+    width: 853px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 20px/28px Aktifo A;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+#enhanced {
+    top: 693px;
+    left: 417px;
+    width: 40px;
+    height: 47px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Group 195.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#features {
+    top: 1207px;
+    left: 140px;
+    width: 834px;
+    height: 24px;
+    text-align: left;
+    font: normal normal medium 20px/28px Aktifo A;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+#high {
+    top: 687px;
+    left: 632px;
+    width: 60px;
+    height: 60px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Asset 2ne.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#firstArrow {
+    top: 1565px;
+    left: 404px;
+    width: 39px;
+    height: 21px;
+    /* UI Properties */
+    opacity: 1;
+}
+
+
+#dashArrow {
+    top: 1575px;
+    left: 404px;
+    width: 39px;
+    height: 0px;
+    /* UI Properties */
+    border: 3px solid #FFFFFF;
+    opacity: 1;
+}
+
+#completeArrow {
+    top: 1565px;
+    left: 433px;
+    width: 11px;
+    height: 21px;
+    /* UI Properties */
+    border: 3px solid #FFFFFF;
+    opacity: 1;
+}
+
+
+
+#firstPoint {
+    top: 1253px;
+    left: 156px;
+    width: 793px;
+    height: 53px;
+    /* UI Properties */
+    text-align: left;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+#secondPoint {
+    top: 1334px;
+    left: 156px;
+    width: 798px;
+    height: 52px;
+    /* UI Properties */
+    text-align: left;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+#thirdPoint {
+    top: 1414px;
+    left: 156px;
+    width: 818px;
+    height: 53px;
+    /* UI Properties */
+    text-align: left;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1;
+}
+
+#middleSectionButton {
+    top: 1535px;
+    left: 140px;
+    width: 359px;
+    height: 75px;
+    /* UI Properties */
+    background: #F26621 0% 0% no-repeat padding-box;
+    border-radius: 9px;
+    opacity: 1;
+}
+
+#secondButtonText {
+    top: 1557px;
+    left: 200px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 30px/36px Aktifo A;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#thirdSection {
+    top: 1713px;
+    left: 0px;
+    width: 1920px;
+    height: 1342px;
+    /* UI Properties */
+    background: #E5E5E5 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#thirdSectionImage {
+    top: 1713px;
+    left: 0px;
+    width: 681px;
+    height: 1156px;
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/GS_DIGITAL_AD_WALL_FILMS_INTERIOR_DESIGN_COLLECTION_Indoor_MPI8621_Removable.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+#whyUs {
+    top: 1842px;
+    left: 782px;
+    height: 61px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 51px/63px Aktifo A;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+#contentLogo1 {
+    top: 1944px;
+    left: 782px;
+    width: 109px;
+    height: 109px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#contentLogo2 {
+    top: 2133px;
+    left: 782px;
+    width: 109px;
+    height: 109px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Ellipse 19-1.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#contentLogo3 {
+    top: 2336px;
+    left: 782px;
+    width: 109px;
+    height: 109px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Ellipse 19-1.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#contentLogo4 {
+    top: 2526px;
+    left: 782px;
+    width: 109px;
+    height: 109px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#content {
+    top: 1954px;
+    left: 938px;
+    width: 809px;
+    height: 670px;
+    /* UI Properties */
+    text-align: left;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+#quality {
+
+    top: 1964px;
+    left: 811px;
+    width: 51px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Group 110.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#multiple {
+    top: 2158px;
+    left: 807px;
+    width: 58px;
+    height: 58px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/ici-adhesives.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+#support {
+    top: 2358px;
+    left: 804px;
+    width: 65px;
+    height: 65px;
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/ici-online-communication.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#durability {
+    top: 2547px;
+    left: 808px;
+    width: 59px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Path 68.png') 0% 0% no-repeat padding-box;
+    border: 2px solid #292929;
+    opacity: 1;
+}
+
+
+
+
+
+
+#firstHeading {
+    top: 0px;
+    left: 0px;
+    width: 169px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+}
+
+#secondHeading {
+    top: 170px;
+    left: 0px;
+    width: 167px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+}
+
+#thirdHeading {
+    top: 374px;
+    left: 0px;
+    width: 225px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+}
+
+#fourthHeading {
+    top: 578px;
+    left: 0px;
+    width: 208px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+}
+
+
+
+
+
+
+
+
+#firstPara {
+    top: 34px;
+    left: 0px;
+    width: 788px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #515151;
+}
+
+#secondPara {
+    top: 204px;
+    left: 0px;
+    width: 801px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #515151;
+}
+
+#thirdPara {
+    top: 408px;
+    left: 0px;
+    width: 801px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #515151;
+}
+
+#fourthPara {
+    top: 612px;
+    left: 0px;
+    width: 717px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #515151;
+}
+
+#thirdSectionButton {
+    top: 2705px;
+    left: 782px;
+    width: 479px;
+    height: 75px;
+    /* UI Properties */
+    background: #F26621 0% 0% no-repeat padding-box;
+    border-radius: 9px;
+    opacity: 1;
+}
+
+#callBack {
+    top: 2727px;
+    left: 842px;
+    width: 293px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 30px/36px Aktifo A;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+
+#footerSection {
+    top: 2869px;
+    left: 0px;
+    width: 1920px;
+    height: 246px;
+    /* UI Properties */
+    background: #1A1A1A 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#solution {
+    top: 2929px;
+    left: 124px;
+    width: 239px;
+    height: 31px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 25px/36px Aktifo A;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: lowercase;
+    opacity: 0.78;
+}
+
+#footerLogo {
+    top: 2984px;
+    left: 118px;
+    width: 209px;
+    height: 71px;
+    background: transparent url('/Users/rohanmote/Desktop/Thapa Projects/Avery_Dennison_Landing_Page/client/src/img/DOL_home_page/Vector Smart Object.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#footerText1 {
+    top: 2929px;
+    left: 530px;
+    width: 339px;
+    height: 29px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/29px Aktifo A;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#footerWhyUs {
+    top: 2979px;
+    left: 530px;
+    height: 29px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/29px Aktifo A;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#enquire {
+    top: 3029px;
+    left: 530px;
+    height: 29px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/29px Aktifo A;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#footerContent1 {
+    top: 2929px;
+    left: 1128px;
+    width: 267px;
+    height: 88px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 13px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #727272;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+#footerContent2 {
+    top: 2929px;
+    left: 1569px;
+    width: 164px;
+    height: 64px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 13px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #727272;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+#footerText {
+    top: 3147px;
+    left: 693px;
+    width: 534px;
+    height: 19px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 16px/19px Aktifo A;
+    letter-spacing: 0px;
+    color: #848484;
+    opacity: 1;
+}
